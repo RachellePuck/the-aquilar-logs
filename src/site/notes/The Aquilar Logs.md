@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-aquilar-logs/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-aquilar-logs/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-This is the home page
+# The Crew
+![[characters.base]]
