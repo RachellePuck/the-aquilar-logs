@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/locations/barrabas/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/barrabas/"}
 ---
 

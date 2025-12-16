@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/guilds/navigators-guild/","noteIcon":""}
+{"dg-publish":true,"permalink":"/guilds/navigators-guild/"}
 ---
 

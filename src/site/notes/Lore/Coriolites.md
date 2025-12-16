@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/lore/coriolites/","noteIcon":""}
+{"dg-publish":true,"permalink":"/lore/coriolites/"}
 ---
 

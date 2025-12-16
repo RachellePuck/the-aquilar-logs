@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/npc-s/zalos/captain-atsaemaez/","noteIcon":""}
+{"dg-publish":true,"permalink":"/npc-s/zalos/captain-atsaemaez/"}
 ---
 

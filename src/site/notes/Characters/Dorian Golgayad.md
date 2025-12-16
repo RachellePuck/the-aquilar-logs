@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/dorian-golgayad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/characters/dorian-golgayad/"}
 ---
 
 --- start-multi-column: ID_l89t

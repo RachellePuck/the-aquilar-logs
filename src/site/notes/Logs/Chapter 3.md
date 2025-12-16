@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/logs/chapter-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/logs/chapter-3/"}
 ---
 
-The greatship is supposed to leave at 11:00. [[Characters/Dorian Golgayad\|Dorian]] disembarks for a little bit to see if any of his family is there to see him off, but he doesn't see anyone there.
+15-12-2025
+
+The Greatship is supposed to leave at 11:00. [[Characters/Dorian Golgayad\|Dorian]] disembarks for a little bit to see if any of his family is there to see him off, but he doesn't see anyone there.
 
 [[Characters/Selene Dara\|Selene]] is unpacking her things and finds some things she didn't pack; a weapon which she's only supposed to use under supervision, and a cryptic note.
 
@@ -18,14 +20,14 @@ When [[Characters/Ava Aquilar\|Ava]] unpacks her luggage, she finds a [[Lore/Mos
 
 After the ship's departure, a few of the [[Lore/Coriolites\|Coriolites]] aboard take of their masks as if a ritual has just finished. [[Characters/Veronica Buttons\|Veronica]] finds [[Characters/Dorian Golgayad\|Dorian]] to give him a drawing of [[Characters/Kestrel\|Kestrel]], who immediately launches into a lecture on [[Lore/Garuda\|Garuda]]. Misunderstandings were had about opening up and killing [[Characters/Kestrel\|Kestrel]]. The crew overhears the conversation and they join up again.
 
-[[Characters/Dorian Golgayad\|Dorian]] explains that officially he is on a spiritual journey to find faith. He doesn't explain the unofficial reason. After a little further introduction [[Characters/Dorian Golgayad\|Dorian]] asks [[Characters/Ava Aquilar\|Ava]] for a bit of a tour of the ship. Even though this greatship is a lot more fancily decorated, the layout seems to be about the same as the other greatships [[Characters/Ava Aquilar\|Ava]] has been on, it even seems a little smaller. They move to the back of the ship where the carpet disappears, and they find the mooring points, where [[Echo's Light\|Echo's Light]] seems to be moored. It's weird that it's here since none of them knew about it. There also only seem to be 6 mooring points here, of which 5 are occupied; Echo's Light, 2 silver gleaming shuttles (very posh), one rickety ship with chipped off paint, and one with the same colour pattern as the Zalos. Usually there are more than 10.
+[[Characters/Dorian Golgayad\|Dorian]] explains that officially he is on a spiritual journey to find faith. He doesn't explain the unofficial reason. After a little further introduction [[Characters/Dorian Golgayad\|Dorian]] asks [[Characters/Ava Aquilar\|Ava]] for a bit of a tour of the ship. Even though this greatship is a lot more fancily decorated, the layout seems to be about the same as the other greatships [[Characters/Ava Aquilar\|Ava]] has been on, it even seems a little smaller. They move to the back of the ship where the carpet disappears, and they find the mooring points, where [[Echo's Light\|Echo's Light]] seems to be moored. It's weird that it's here since none of them knew about it. There also only seem to be 6 mooring points here, of which 5 are occupied; Echo's Light, 2 silver gleaming shuttles (very posh), one rickety ship with chipped off paint, and one with the same colour pattern as [[Locations/The Zalos\|The Zalos]]. Usually there are more than 10.
 
-A young man asks what they are doing in the mooring bay, they ask him why the Echo's Light. He brings an older man over to us who leaves through a log and tells us it was boarded on orders of Moska of the Explorers' Guild. 
+A young man asks what they are doing in the mooring bay, they ask him why the Echo's Light. He brings an older man over to us who leaves through a log and tells us it was boarded on orders of [[NPC's/Ship City/Master Moska\|Master Moska]] of the Explorers' Guild. 
 
 [[Characters/Dorian Golgayad\|Dorian]] asks the group who is going to the lecture on Moubarra the following day. Most of them seem to be going. 
 
 They continue on the tour, mostly past cabins and workshops. Also an infirmary, and the other lounge.  They do eventually see a staircase that leads up to the bridge, but only personnel is permitted. [[Characters/Dorian Golgayad\|Dorian]] visits the library to try and do some research on the Dara family, but finds mostly religious texts. [[Characters/Ava Aquilar\|Ava]], [[Characters/Selene Dara\|Selene]], and [[NPC's/Ship City/Clemence Dukus\|Clemence]] start on their physical training, and [[Characters/Veronica Buttons\|Veronica]] goes to her room to tinker on some art.
 
-At 18:00 a gong goes off to indicate dinner is served. Everyone moves to the [[Dining Hull\|Dining Hull]]. [[Characters/Veronica Buttons\|Veronica]] notices [[NPC's/Ship City/Julia Golgayad Mirmira\|Julia]]'s son, who she sits with, [[Characters/Dorian Golgayad\|Dorian]] spots representatives of practically all powerful Coriolite families, as well as the current heads of the Nazar family, who he thinks the silver shuttles in the mooring bay belong to. He ends up sitting at a table with some other Coriolites, but doesn't talk to them. The others go sit together.
+At 18:00 a gong goes off to indicate dinner is served. Everyone moves to the [[Dining Hull\|Dining Hull]]. [[Characters/Veronica Buttons\|Veronica]] notices [[NPC's/Ship City/Julia Golgayad Mirmira\|Julia]]'s son, who she sits with, [[Characters/Dorian Golgayad\|Dorian]] spots representatives of practically all powerful Coriolite families, as well as the current heads of the Nazar family, who he thinks the silver shuttles in the mooring bay belong to. He ends up sitting at a table with some other [[Lore/Coriolites\|Coriolites]], but doesn't talk to them. The others go sit together.
 
 Around 19:00, a woman, the Captain Albay; [[NPC's/Zalos/Demet Ashur\|Demet Ashur]], in red and white, and the captain from before, [[NPC's/Zalos/Captain Atsæmæz\|Captain Atsæmæz]] in white and blue introduce themselves and open a concert in honour of the Traveler. An early start to the evening's mass. A bowl goes around collecting small pieces of knotted rope as offering, getting collected at the stage and lit into a small bonfire. 

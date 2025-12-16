@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/veronica-buttons/","noteIcon":""}
+{"dg-publish":true,"permalink":"/characters/veronica-buttons/"}
 ---
 
 --- start-multi-column: ID_eikm

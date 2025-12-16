@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ship-city/the-chasm/vermillion-house/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/ship-city/the-chasm/vermillion-house/"}
 ---
 
 Old hospital that was abandoned and then picked up by the [[Guilds/Explorers Guild\|Explorers Guild]] as their guild house.

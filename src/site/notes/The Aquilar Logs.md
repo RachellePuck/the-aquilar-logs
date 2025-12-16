@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-aquilar-logs/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-aquilar-logs/","tags":["gardenEntry"]}
 ---
 
 # The Crew

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/locations/gamaru/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/gamaru/"}
 ---
 

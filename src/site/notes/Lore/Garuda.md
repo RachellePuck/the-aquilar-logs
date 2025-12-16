@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/garuda/","noteIcon":""}
+{"dg-publish":true,"permalink":"/lore/garuda/"}
 ---
 
 > For the Explorers, no companion is as vital as their Bird. Without it, every delve becomes a far riskier and more uncertain venture. Birds have transformed the art of exploring ruins, so much so that few can even recall a time before these strange creatures became the steadfast guardians of Explorers braving the Great Dark.
@@ -21,7 +21,7 @@ The first Garuda to awaken from the Arakvarat batch became one of the most legen
 
 ---
 # The Birds & The City
-Birds are a common sight across Ship City, often perched on the shoulders of dignitaries or Explorers, or even flying freely in the Chasm. However there is one place more associated with the Garuda than anywhere else and that is the [[Locations/Ship City/The Chasm/Bird Market\|Bird Market]] located in [[Locations/Ship City/The Chasm/The Chasm\|the Chasm]]. Here, bird traders, trainers, speculants, and others mingle around scores of small stalls perched on the steep floor of the surrounding grotto. If you have an inquiry regarding a Bird, this should likely be your first stop.
+Birds are a common sight across [[Locations/Ship City/Ship City\|Ship City]], often perched on the shoulders of dignitaries or Explorers, or even flying freely in [[Locations/Ship City/The Chasm/The Chasm\|The Chasm]]. However there is one place more associated with the Garuda than anywhere else and that is the [[Locations/Ship City/The Chasm/Bird Market\|Bird Market]] located in [[Locations/Ship City/The Chasm/The Chasm\|the Chasm]]. Here, bird traders, trainers, speculants, and others mingle around scores of small stalls perched on the steep floor of the surrounding grotto. If you have an inquiry regarding a Bird, this should likely be your first stop.
 
 The three primary factions using the Birds are the [[Guilds/Navigators Guild\|Navigators Guild]], the [[Lore/Coriolites\|Coriolites]], and the [[Guilds/Explorers Guild\|Explorers Guild]]. Each of these utilise Bird scouts that scour [[Locations/Ship City/Ship City\|Ship City]] for the most precious Garuda specimen to give them an extra edge. As the Birds are valued so highly, they are heavily regulated by Guild law, and indeed destroying a Garuda is punishable by the strictest sentence possible: a lifetime of exile to the Habanatum system. Still, a thriving black market surrounds the trade of Birds and there are even reports of Garuda hunters tracking, capturing, and sometimes killing Birds that roam free in the lower parts of the city.
 

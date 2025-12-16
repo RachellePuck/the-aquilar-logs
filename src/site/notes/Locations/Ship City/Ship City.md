@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ship-city/ship-city/","noteIcon":""}
+{"dg-publish":true,"permalink":"/locations/ship-city/ship-city/"}
 ---
 
 

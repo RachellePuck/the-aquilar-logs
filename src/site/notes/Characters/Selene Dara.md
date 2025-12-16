@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/selene-dara/","noteIcon":""}
+{"dg-publish":true,"permalink":"/characters/selene-dara/"}
 ---
 
 --- start-multi-column: ID_l1d7

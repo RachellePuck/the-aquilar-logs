@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/logs/chapter-2/","noteIcon":""}
+{"dg-publish":true,"permalink":"/logs/chapter-2/"}
 ---
+
+8-12-2025
 
 The expedition will leave in a week, in which time [[Characters/Ava Aquilar\|Ava]] should start showing the new recruits around and starting their basic training. It seems [[NPC's/Ship City/Clemence Dukus\|Clemence]] is also in need of some clothes since his are in tatters and he doesn't have any spare with him.
 
@@ -26,8 +28,8 @@ They discuss the Golgayad family, and [[Characters/Dorian Golgayad\|Dorian]] men
 
 At the [[Guilds/Navigators Guild\|Navigators Guild]] we find a list with the manifest for the journey, which does list [[Characters/Dorian Golgayad\|Dorian Golgayad]] and [[Characters/Veronica Buttons\|Veronica Buttons]]. 
 
-During the week, [[Characters/Veronica Buttons\|Veronica]] collects some (fine) tools from her patron for her work. [[Characters/Dorian Golgayad\|Dorian]] looks for books on the Dara name and family. He also attends the last mass before leaving to appease his family. [[Characters/Ava Aquilar\|Ava]] spends the week training [[Characters/Selene Dara\|Selene]] and [[NPC's/Ship City/Clemence Dukus\|Clemence]] in their physicality, to up their endurance for the expedition, The Zalos.
+During the week, [[Characters/Veronica Buttons\|Veronica]] collects some (fine) tools from her patron for her work. [[Characters/Dorian Golgayad\|Dorian]] looks for books on the Dara name and family. He also attends the last mass before leaving to appease his family. [[Characters/Ava Aquilar\|Ava]] spends the week training [[Characters/Selene Dara\|Selene]] and [[NPC's/Ship City/Clemence Dukus\|Clemence]] in their physicality, to up their endurance for the expedition, [[Locations/The Zalos\|The Zalos]].
 
-At the setting-off day of the voyage, The Zalos is moored at [[Locations/Ship City/The Maw\|The Maw]]. All are checked at the entrance and given a key to a cabin. [[Characters/Dorian Golgayad\|Dorian]] is in a small room like this as well. [[Characters/Veronica Buttons\|Veronica]] has a very posh room with an entertainment system, her luggage already brought in, and a note welcoming her, and an itinerary attached to it. 
+At the setting-off day of the voyage, [[Locations/The Zalos\|The Zalos]] is moored at [[Locations/Ship City/The Maw\|The Maw]]. All are checked at the entrance and given a key to a cabin. [[Characters/Dorian Golgayad\|Dorian]] is in a small room like this as well. [[Characters/Veronica Buttons\|Veronica]] has a very posh room with an entertainment system, her luggage already brought in, and a note welcoming her, and an itinerary attached to it. 
 
 ![Zalos Itinerary.png](/img/user/Assets/Zalos%20Itinerary.png)

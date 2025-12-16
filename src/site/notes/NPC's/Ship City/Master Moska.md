@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npc-s/ship-city/master-moska/","noteIcon":""}
+{"dg-publish":true,"permalink":"/npc-s/ship-city/master-moska/"}
 ---
 
 
