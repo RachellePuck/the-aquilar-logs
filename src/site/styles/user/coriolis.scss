@@ -1,0 +1,89 @@
+body {
+  background-color: rgb(253, 246, 226);
+}
+
+.markdown-preview-view {
+  font-family: "beaufort-pro";
+}
+
+.content {
+  color: rgb(26, 25, 25);
+}
+
+.internal-link {
+  font-weight: bold;
+
+  &:hover {
+    color: rgba(26, 25, 25, 0.75);
+  }
+}
+
+// Page preview on hover.
+#tooltip-wrapper {
+  background-color: rgb(253, 246, 226);
+  color: rgb(26, 25, 25);
+}
+
+// Sidebar left.
+.filetree-wrapper {
+  background-color: rgba(21, 22, 22, 0.95);
+
+  .search-button {
+    background-color: rgba(21, 22, 22, 0.95);
+    border: 1px solid rgba(193, 167, 111, 0.25);
+    color: rgba(193, 167, 111, 0.75);
+
+    .search-key {
+      background-color: rgba(253, 246, 226, 0.1);
+      color: rgba(193, 167, 111, 0.75);
+    }
+  }
+
+  a {
+    color: rgb(193, 167, 111);
+  }
+
+  .foldername-wrapper {
+    font-weight: bold;
+  }
+
+  .file-list {
+    border-left: 1px solid rgba(193, 167, 111, 0.4);
+  }
+}
+
+// Sidebar right.
+.sidebar-container {
+  .graph, .graph-fs {
+    border: 1px solid rgba(193, 167, 111, 0.25)
+  }
+
+  #graph-controls {
+    background-color: rgba(21, 22, 22, 0.95);
+    border: 1px solid rgba(193, 167, 111, 0.25);
+
+    input[type="range"]::-webkit-slider-thumb,
+    input[type="range"]::-moz-range-thumb {
+      background-color: rgb(193, 167, 111)
+    }
+
+    #depth-display {
+      background-color: rgba(193, 167, 111, 0.75);
+      color: rgb(26, 25, 25);
+    }
+  }
+
+  #link-graph {
+    background-color: rgba(21, 22, 22, 0.95);
+  }
+
+  .backlinks {
+    .backlinks-title {
+      color: rgb(193, 167, 111);
+    }
+
+    .no-backlinks-message {
+      color: rgba(193, 167, 111, 0.75);
+    }
+  }
+}
