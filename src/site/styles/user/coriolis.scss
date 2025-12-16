@@ -19,11 +19,11 @@ body {
     text-align: center;
 
     &::before {
-      content: url(header-decoration.svg);
+      content: url(./header-decoration.svg);
     }
 
     &::after {
-      content: url(header-decoration.svg);
+      content: url(./header-decoration.svg);
       transform: scale(-1, 1);
     }
   }
