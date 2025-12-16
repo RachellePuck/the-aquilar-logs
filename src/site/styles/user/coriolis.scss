@@ -1,5 +1,11 @@
 body {
   background-color: rgb(253, 246, 226);
+
+  // Page preview on hover.
+  #tooltip-wrapper {
+    background-color: rgb(253, 246, 226);
+    color: rgb(26, 25, 25);
+  }
 }
 
 .markdown-preview-view {
@@ -10,18 +16,13 @@ body {
   color: rgb(26, 25, 25);
 }
 
-.internal-link {
+.markdown-rendered .internal-link,
+.markdown-rendered .internal-link.is-unresolved {
   font-weight: bold;
 
   &:hover {
     color: rgba(26, 25, 25, 0.75);
   }
-}
-
-// Page preview on hover.
-#tooltip-wrapper {
-  background-color: rgb(253, 246, 226);
-  color: rgb(26, 25, 25);
 }
 
 // Sidebar left.
@@ -33,7 +34,7 @@ body {
     border: 1px solid rgba(193, 167, 111, 0.25);
     color: rgba(193, 167, 111, 0.75);
 
-    .search-key {
+    .search-keys {
       background-color: rgba(253, 246, 226, 0.1);
       color: rgba(193, 167, 111, 0.75);
     }
@@ -44,27 +45,37 @@ body {
   }
 
   .foldername-wrapper {
+    color: rgb(193, 167, 111);
     font-weight: bold;
   }
 
-  .file-list {
+  .filelist {
     border-left: 1px solid rgba(193, 167, 111, 0.4);
+
+    .notelink.active-note {
+      border-left-color: rgba(193, 167, 111, 0.75);
+
+      .filename {
+        color: rgba(193, 167, 111, 0.75);
+      }
+    }
   }
 }
 
 // Sidebar right.
 .sidebar-container {
-  .graph, .graph-fs {
-    border: 1px solid rgba(193, 167, 111, 0.25)
-  }
-
   #graph-controls {
     background-color: rgba(21, 22, 22, 0.95);
     border: 1px solid rgba(193, 167, 111, 0.25);
+    color: rgb(193,167,111);
 
-    input[type="range"]::-webkit-slider-thumb,
-    input[type="range"]::-moz-range-thumb {
+    .depth-control .slider input[type="range"]::-webkit-slider-thumb,
+    .depth-control .slider input[type="range"]::-moz-range-thumb {
       background-color: rgb(193, 167, 111)
+    }
+
+    .depth-control .slider input[type="range"] {
+      background: rgba(193, 167, 111, 0.25)
     }
 
     #depth-display {
@@ -78,7 +89,7 @@ body {
   }
 
   .backlinks {
-    .backlinks-title {
+    .backlink-title {
       color: rgb(193, 167, 111);
     }
 
