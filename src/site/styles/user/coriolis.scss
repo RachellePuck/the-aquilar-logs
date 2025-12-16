@@ -14,6 +14,19 @@ body {
 
 .content {
   color: rgb(26, 25, 25);
+
+  header h1 {
+    text-align: center;
+
+    &::before {
+      content: url(header-decoration.svg);
+    }
+
+    &::after {
+      content: url(header-decoration.svg);
+      transform: scale(-1, 1);
+    }
+  }
 }
 
 .markdown-rendered .internal-link,
