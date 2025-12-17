@@ -35,16 +35,6 @@ body {
     }
   }
 
-  .markdown-rendered blockquote {
-    background-color: rgba(21, 22, 22, 0.95) !important;
-    border: unset !important;
-    border-radius: var(--radius-m) !important;
-    color: rgb(193, 167, 111) !important;
-    font-style: italic !important;
-    padding: 20px 15px !important;
-    text-align: center !important;
-  }
-
   hr {
     border: unset;
     content: url("/img/user/Assets/horizontal-rule.svg");
@@ -55,6 +45,16 @@ body {
   .referred {
     border-color: rgb(193, 167, 111);
   }
+}
+
+.markdown-rendered blockquote {
+  background-color: rgba(21, 22, 22, 0.95) !important;
+  border: unset !important;
+  border-radius: var(--radius-m) !important;
+  color: rgb(193, 167, 111) !important;
+  font-style: italic !important;
+  padding: 20px 15px !important;
+  text-align: center !important;
 }
 
 .markdown-rendered .internal-link,
