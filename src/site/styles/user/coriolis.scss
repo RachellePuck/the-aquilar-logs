@@ -19,26 +19,24 @@ body {
   color: rgb(26, 25, 25);
 
   header h1 {
-    display: inline;
-    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 
     &::before,
     &::after {
       content: url("/img/user/Assets/header-decoration.svg");
-      display: inline-block;
-      height: 2rem;
-      margin-right: 5px;
-      width: auto;
-
-      svg {
-        height: 2rem;
-        width: auto;
-      }
+      margin-inline: 10px;
+      margin-block-start: 5px;
     }
 
     &::after {
       transform: scale(-1, 1);
     }
+  }
+
+  .referred {
+    border-color: rgb(193, 167, 111);
   }
 }
 
@@ -115,13 +113,43 @@ body {
     background-color: rgba(21, 22, 22, 0.95);
   }
 
+  // Table of content.
+  .toc {
+    .toc-title-container .toc-title {
+      color: rgb(193, 167, 111);
+      font-weight: bold;
+    }
+
+    .toc-container ol {
+      border-left: 1px solid rgba(193, 167, 111, 0.4);
+
+      a {
+        color: rgb(193, 167, 111);
+      }
+    }
+  }
+
   .backlinks {
     .backlink-title {
       color: rgb(193, 167, 111);
+    }
+
+    .backlink-card a {
+      color: rgb(193, 167, 111);
+
+      &:hover {
+        color: rgb(193, 167, 111);
+        font-weight: bold;
+      }
     }
 
     .no-backlinks-message {
       color: rgba(193, 167, 111, 0.75);
     }
   }
+}
+
+// Codeblocks.
+.markdown-rendered pre {
+  background-color: rgba(21, 22, 22, 0.9);
 }
