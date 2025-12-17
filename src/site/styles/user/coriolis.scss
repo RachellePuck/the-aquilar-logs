@@ -35,6 +35,22 @@ body {
     }
   }
 
+  .markdown-rendered blockquote {
+    background-color: rgba(21, 22, 22, 0.95);
+    border: unset;
+    border-radius: var(--radius-m);
+    color: rgb(193, 167, 111);
+    font-style: italic;
+    padding: 20px 15px;
+    text-align: center;
+  }
+
+  hr {
+    border: unset;
+    content: url("/img/user/Assets/horizontal-rule.svg");
+    width: 100%;
+  }
+
   .referred {
     border-color: rgb(193, 167, 111);
   }
@@ -104,8 +120,13 @@ body {
     }
 
     #depth-display {
-      background-color: rgba(193, 167, 111, 0.75);
+      background-color: rgba(193, 167, 111, 0.95);
       color: rgb(26, 25, 25);
+      padding-block-start: 2px;
+    }
+
+    svg:hover {
+      color: rgb(193,167,111);
     }
   }
 
@@ -134,12 +155,20 @@ body {
       color: rgb(193, 167, 111);
     }
 
-    .backlink-card a {
-      color: rgb(193, 167, 111);
-
-      &:hover {
+    .backlink-card {
+      svg {
         color: rgb(193, 167, 111);
-        font-weight: bold;
+        margin-block-end: 3px;
+        opacity: 0.75;
+      }
+
+      a {
+        color: rgb(193, 167, 111);
+
+        &:hover {
+          color: rgb(193, 167, 111);
+          font-weight: bold;
+        }
       }
     }
 
