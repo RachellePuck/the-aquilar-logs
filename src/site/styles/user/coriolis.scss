@@ -16,14 +16,19 @@ body {
   color: rgb(26, 25, 25);
 
   header h1 {
+    display: inline;
     text-align: center;
 
-    &::before {
-      content: url(../../img/user/Assets/header-decoration.svg);
+    &::before,
+    &::after {
+      content: url("/img/user/Assets/header-decoration.svg");
+      display: inline-block;
+      height: 2rem;
+      margin-right: 5px;
+      width: auto;
     }
 
     &::after {
-      content: url(./header-decoration.svg);
       transform: scale(-1, 1);
     }
   }
