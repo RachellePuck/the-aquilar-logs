@@ -14,9 +14,13 @@ After that [[Characters/Ava Aquilar\|Ava]] takes them to [[NPC's/Ship City/Maste
 
 There is one more master, [[NPC's/Ship City/Master Roudaver\|Master Roudaver]], head of engineering, but he is not very social and would not appreciate random introductions.
 
+---
+
 Outside the [[Locations/Ship City/Inner Sanctum/Autumn Palace\|Autumn Palace]], [[Characters/Veronica Buttons\|Veronica]] and [[Characters/Dorian Golgayad\|Dorian]] meet again. [[Characters/Veronica Buttons\|Veronica]] goes on about squeezing(?), and apparently she's homeless. [[Characters/Dorian Golgayad\|Dorian]] mentions he is going to [[Locations/Ship City/The Inbetween\|The Inbetween]] and invites her to come. They discuss the assignment [[Characters/Veronica Buttons\|Veronica]] got from his aunt. They realise they have very different views on life and knowledge. 
 
 They take the shortest route towards [[Characters/Dorian Golgayad\|Dorian]]'s office, and he gets the feeling they were being shadowed by several figures who are closing in on them. They dash into an alley but the figures dash after them and they start to gain fast. [[Characters/Veronica Buttons\|Veronica]] takes out a welding torch and burns the hinges off a door to a dingy hovel. They head up the stairs to another exit. [[Characters/Dorian Golgayad\|Dorian]] tries to push a wardrobe in the way, but it doesn't budge. They are making good ground and manage to outrun the people following them as they burst out into a street with Greycap presence. To experience the feeling for travel, [[Characters/Veronica Buttons\|Veronica]] decides they should visit [[Locations/Ship City/Aluminum Bay/Aluminum Bay\|Aluminum Bay]] and [[Characters/Dorian Golgayad\|Dorian]] follows.
+
+---
 
 Since they have a week before the journey, [[Characters/Ava Aquilar\|Ava]] takes [[Characters/Selene Dara\|Selene]] and [[NPC's/Ship City/Clemence Dukus\|Clemence]] to [[Locations/Ship City/Aluminum Bay/The Outpost\|The Outpost]] to get them some drinks. They talk to the proprietor, [[NPC's/Ship City/Engine\|Engine]], who warns the rookies not to get killed. He says handling artefacts can be dangerous and points to a man with a half-molten face who had come into contact with the Blight. [[Characters/Ava Aquilar\|Ava]] tells them of her previous expedition and her encounters with the Blight. How it usually shows up as a red glow on flora. They talk to some of the other adventurers in the bar and make introductions. [[NPC's/Ship City/Clemence Dukus\|Clemence]] seems to immediately have lost the money he got before because his clothes are filled with holes, so they buy him some cheap workers clothes.
 
@@ -26,7 +30,9 @@ The group gets approached by a woman in uniform, [[NPC's/Zalos/Captain Atsæmæz
 
 They discuss the Golgayad family, and [[Characters/Dorian Golgayad\|Dorian]] mentions he knows of and admires [[Characters/Ava Aquilar\|Ava]]'s grandfather [[NPC's/Dacaro Aquilar\|Dacaro Aquilar]]. [[Characters/Selene Dara\|Selene]] mentions that she would like to learn more about her own family, and [[Characters/Dorian Golgayad\|Dorian]] knows that her family is associated with the disappearance of a Greatship, the [[Hamurabi\|Hamurabi]]. The first officer of the [[Hamurabi\|Hamurabi]] expedition was called Dara, who was found adrift in an escape pod after the ship was lost. [[Characters/Dorian Golgayad\|Dorian]] promised to do research on her family while she is training for the next week.
 
-At the [[Guilds/Navigators Guild\|Navigators Guild]] we find a list with the manifest for the journey, which does list [[Characters/Dorian Golgayad\|Dorian Golgayad]] and [[Characters/Veronica Buttons\|Veronica Buttons]]. 
+At the [[Guilds/Navigators Guild\|Navigators Guild]] they find a list with the manifest for the journey, which does list [[Characters/Dorian Golgayad\|Dorian Golgayad]] and [[Characters/Veronica Buttons\|Veronica Buttons]]. 
+
+---
 
 During the week, [[Characters/Veronica Buttons\|Veronica]] collects some (fine) tools from her patron for her work. [[Characters/Dorian Golgayad\|Dorian]] looks for books on the Dara name and family. He also attends the last mass before leaving to appease his family. [[Characters/Ava Aquilar\|Ava]] spends the week training [[Characters/Selene Dara\|Selene]] and [[NPC's/Ship City/Clemence Dukus\|Clemence]] in their physicality, to up their endurance for the expedition, [[Locations/The Zalos\|The Zalos]].
 
