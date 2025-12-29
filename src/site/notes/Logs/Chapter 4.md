@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/logs/chapter-4/"}
+---
+
+*29-12-2025*
+
+Dorian is at a table with [[Ammi Alamasi\|Ammi Alamasi]] and an older gentleman called [[NPC's/Zalos/Ytreppo Ashur\|Ytreppo Ashur]], who seems to be much more progressive than the general [[Lore/The Coriolites/The Coriolites\|Coriolite]]. [[NPC's/Zalos/Ytreppo Ashur\|Ytreppo Ashur]] is the heir of the [[Lore/The Coriolites/Ashur\|Ashur]] family and is a well known figure in the [[Guilds/Navigators Guild\|Navigators Guild]]. [[Characters/Dorian Golgayad\|Dorian]] notes that for someone know for being an adventurer, most of [[NPC's/Zalos/Ytreppo Ashur\|Ytreppo]]'s stories seem to be third person/not about himself.
+
+During dinner, [[Characters/Ava Aquilar\|Ava]] notices that some of the people at their table seem to be quite taken with her and [[Characters/Selene Dara\|Selene]]. One of the table guests is still wearing a mask and a full bodysuit with a cape, and the eyes that don't look entirely natural. He asks for their names, but doesn't return his, saying he's no one important, though some would call him [[Davoudon\|Davoudon]], which is a name he doesn't prefer. He then leaves and another table guest introduces himself as [[Malik\|Malik]], and offers them some dining robes since they seem to stand out. 
+
+[[Characters/Veronica Buttons\|Veronica]] talks with [[Atapila\|Atapila]], the son of [[NPC's/Ship City/Iulia Golgayad Mirmira\|Iulia]]. He wonders how his mother found her, but doesn't claim to know how the mind of an oracle works. [[Atapila\|Atapila]] says he has seen some of [[Characters/Veronica Buttons\|Veronica]]'s work but isn't too impressed by it, though he isn't much of an art connoisseur. He also implies that he is aboard partially to keep an eye on [[Characters/Dorian Golgayad\|Dorian]]. 
+
+Around 8:30, the dining hall starts to empty. Mostly people are moving on to mass, but none of the group are inclined to join. [[Characters/Ava Aquilar\|Ava]] and [[Characters/Selene Dara\|Selene]] overhear [[Characters/Dorian Golgayad\|Dorian]] and [[Characters/Veronica Buttons\|Veronica]] bicker a little, but they end up all going to the second lounge to grab a drink. [[Characters/Ava Aquilar\|Ava]] asks [[Characters/Dorian Golgayad\|Dorian]] if he knows someone called [[Davoudon\|Davoudon]], which name he vaguely recalls. He doesn't know what their deal is, but he does know that they have a connection with the [[City of the Dead\|City of the Dead]], back in [[Locations/Ship City/Ship City\|Ship City]] which is run by an offshoot [[Lore/The Coriolites/The Coriolites\|Coriolite]] branch, the [[Wardens of the Well\|Wardens of the Well]]. 
+
+[[Characters/Dorian Golgayad\|Dorian]] admits he may have a problem with authority, not accepting no when being told so. His uncle, [[Atapila\|Atapila]], joins the group in the lounge and asks them to join him at mass the following morning, dedicated to the [[Lore/The Icons/Lady of Tears\|Lady of Tears]]. Her light aspect; the one who accompanies the dead, the judge. Her dark aspect; the butcher or the executioner. There was a small cult about a decade ago who followed the Lady of Tar and liked to chop people up. After a little while, [[Atapila\|Atapila]] buys them another round and retires to his rooms, as does [[NPC's/Ship City/Clemence Dukus\|Clemence]]. The group talks some more, but at around 10 everyone returns to their rooms, where they find [[NPC's/Ship City/Clemence Dukus\|Clemence]] still wandering around, not having found his room yet.
+
+---
+
+That night, [[Characters/Ava Aquilar\|Ava]] dreams of the maze. She is in a white space, with pillar-like shapes extending from the umbra darkness above. She orients herself using the maps, finding herself on the fringes of what she knows, where she walks into the unknown, mentally mapping the new areas, until she finds something she has not heard before in this space. She heard wind, coming from a certain direction. As she moves in that direction, she sees a massive gate about 100m in front. She moves toward it, but as she gets close to it, she starts to shift through the floor, a sign that she is about to wake up. Mentally making note of alle the turns she's taken to get here, she wakes up with the feeling of falling, and immediately starts to note her dream journey down, studying it, and then carefully folding it into a notebook filled with similar pieces of paper.
+
+---
+
+As [[Characters/Selene Dara\|Selene]] wakes up, she notices a purple streak in her peripheral vision.
+
+The group moves to mass that morning, receiving candles from [[Atapila\|Atapila]] to burn during the ceremony. The room contains 8 statues, of which the [[Lore/The Icons/Lady of Tears\|Lady of Tears]] is lit up. There are 9 icons, but the missing one here is the [[Lore/The Icons/Faceless One\|Faceless One]], which is the latest one added to the pantheon, but also doesn't have a form. 
+
+During that day, [[Characters/Ava Aquilar\|Ava]] is very distracted by the dream, tracing the path on her arm, tapping the location of where the gate would be, thinking about what it could mean. [[Characters/Veronica Buttons\|Veronica]] offers to help with noting it down, but doesn't have any tattoo equipment. [[Characters/Dorian Golgayad\|Dorian]] does more research on the [[Ordana Station\|Ordana Station]] and finds some information about a precision lens there that is used to map and study the stars.
+
+Just before dinner, [[Malik\|Malik]] finds [[Characters/Ava Aquilar\|Ava]] and [[Characters/Selene Dara\|Selene]], and offers them some spare togas for dining, stating that he is a generous person. The rest of the day passes without much happening.
+
+---
+
+The following day is lecture on [[Moubarra\|Moubarra]]. [[Characters/Dorian Golgayad\|Dorian]] is there early and saves some seats for his potential new friends possibly showing up, being very excited when they do. The lecturer shows images of a beautiful golden planetoid [[Moubarra\|Moubarra]], having multiple rings of rocks, gravel, and dust, and a few moons. He goes into some specifics about what makes it a special planet, there is a dark gap between the second and third ring, a coal-like dust which gathers and at some point breaks off in what is called 'The Scythe', which leaves behind turbulent storms of sulphurous clouds. Another professor takes the stand, and continues about the religious aspects, the planet being linked to the [[Lore/The Icons/Merchant\|Merchant]].
+
+[[Characters/Veronica Buttons\|Veronica]] finds [[Atapila\|Atapila]] to show him the first draft of her work for his mother, to which she also drags [[Characters/Dorian Golgayad\|Dorian]] into her room as to not make it appear inappropriate. Her piece is on the way [[Lore/The Coriolites/The Coriolites\|Coriolites]] reflect on the world. [[Atapila\|Atapila]] is very taken with what she has made, even if [[Characters/Dorian Golgayad\|Dorian]] would have preferred it to be more depicting the vastness of space.

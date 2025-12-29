@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/logs/chapter-1/"}
 ---
 
-24-11-2025
+*24-11-2025*
 
 [[Characters/Dorian Golgayad\|Dorian]] entered his father's office, and was told he was shirking his duties and got an ultimatum. Get secluded for a year, or go on a pilgrimage to find the ultimate faith.
 
-[[Characters/Veronica Buttons\|Veronica]] had a conversation with [[Characters/Dorian Golgayad\|Dorian]]'s aunt [[NPC's/Ship City/Julia Golgayad Mirmira\|Julia Golgayad Mirmira]], who asked her to make a sculpture based on the feeling or essence of the slipstream. Inspired by a journey on a Greatship.
+[[Characters/Veronica Buttons\|Veronica]] had a conversation with [[Characters/Dorian Golgayad\|Dorian]]'s aunt [[NPC's/Ship City/Iulia Golgayad Mirmira\|Iulia Golgayad Mirmira]], who asked her to make a sculpture based on the feeling or essence of the slipstream. Inspired by a journey on a Greatship.
 
 [[Characters/Ava Aquilar\|Ava]] goes to do research on the [[Ordana Station\|Ordana Station]]. It's the northern station from [[Locations/Ship City/Ship City\|Ship City]], also called the Northern Arm, the first system there is called [[Locations/Gamaru\|Gamaru]]. She digs into the archives to find information about her [[NPC's/Dacaro Aquilar\|grandfather]] going to the system. He was one of the explorers that documented the [[Asrabourne Runnel\|Asrabourne Runnel]], a slipstream dead end. This was very dangerous because there was a possibility of getting stuck at the end and having to travel back for a year.
 [[Locations/Gamaru\|Gamaru]] and [[Locations/Gamaru\|Gamaru]] B. A bi-solar system, with two stars.

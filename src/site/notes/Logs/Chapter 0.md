@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/logs/chapter-0/"}
 ---
 
-11-11-2025
+*11-11-2025*
 
 After welding up a great ship, docked in the [[Locations/Ship City/Aluminum Bay/Aluminum Bay\|Aluminum Bay]], [[Characters/Ava Aquilar\|Ava]] makes her way to the cantina. There, a messenger tells her she's expected at the [[Locations/Ship City/The Chasm/Vermillion House\|Vermillion House]]. She finishes her meal, and goes home for a quick shower before reporting to the guild.
 

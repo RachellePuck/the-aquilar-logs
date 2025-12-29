@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/logs/chapter-2/"}
 ---
 
-8-12-2025
+*8-12-2025*
 
 The expedition will leave in a week, in which time [[Characters/Ava Aquilar\|Ava]] should start showing the new recruits around and starting their basic training. It seems [[NPC's/Ship City/Clemence Dukus\|Clemence]] is also in need of some clothes since his are in tatters and he doesn't have any spare with him.
 
