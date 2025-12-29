@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/logs/chapter-0/"}
 ---
 
-11-11-2025
+*11-11-2025*
 
 After welding up a great ship, docked in the [[Locations/Ship City/Aluminum Bay/Aluminum Bay\|Aluminum Bay]], [[Characters/Ava Aquilar\|Ava]] makes her way to the cantina. There, a messenger tells her she's expected at the [[Locations/Ship City/The Chasm/Vermillion House\|Vermillion House]]. She finishes her meal, and goes home for a quick shower before reporting to the guild.
 
 Made her way to [[Locations/Ship City/The Chasm/The Chasm\|The Chasm]], to the guild. Greeted by an older woman, [[NPC's/Ship City/Layla\|Layla]], who tells her the master is expecting her. [[NPC's/Ship City/Master Moska\|Master Moska]] invites her in the office, a huge map on the wall portraying the know star system.
 
 She asks about [[Characters/Ava Aquilar\|Ava's]] work, and tells her she's not the only one having trouble finding exploring work. [[NPC's/Ship City/Master Moska\|Moska]] has a proposition for her to be part of a new crew, funded by the [[Guilds/Explorers Guild\|Explorers Guild]]. On the surface [[Characters/Ava Aquilar\|Ava]] would be training some people that were new to the guild, taking on the role of Senior Explorer, but really she would be gathering intel. [[NPC's/Ship City/Master Moska\|Moska]] says the rookie has just arrived and [[Characters/Ava Aquilar\|Ava]] should pick her up from the harbour and bring her to the [[Locations/Ship City/The Chasm/Vermillion House\|Vermillion House]]. She ask for a description to find her and gets a note with a picture and the name [[Characters/Selene Dara\|Selene Dara]].
+
+---
 
 It doesn't take long for [[Characters/Ava Aquilar\|Ava]] to find [[Characters/Selene Dara\|Selene]] in Hull Town. She glares at the vendor harassing [[Characters/Selene Dara\|Selene]], and ask if she's the person [[Characters/Ava Aquilar\|Ava]] is looking for. She confirms and tells me she's supposed to meet with [[NPC's/Ship City/Master Moska\|Master Moska]], so [[Characters/Ava Aquilar\|Ava]] lead her back to the guild and introduce myself.
 
