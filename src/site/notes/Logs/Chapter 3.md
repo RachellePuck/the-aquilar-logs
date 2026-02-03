@@ -16,7 +16,7 @@ When [[Characters/Ava Aquilar\|Ava]] unpacks her luggage, she finds a [[Lore/Mos
 
 [[Characters/Veronica Buttons\|Veronica]] and [[Characters/Dorian Golgayad\|Dorian]] also move back to their rooms, where [[Characters/Veronica Buttons\|Veronica]] finds a copy of her contract and the supplies she requested, and [[Characters/Dorian Golgayad\|Dorian]] also finds a note from his mother.
 
-[[Characters/Dorian Golgayad\|Dorian]] joins the others at the viewing deck, and can finally see his mother in the crowd. A lot of people are gathered there, waving at the greatship, mostly younger ones. The adults seem to keep their composure more, and seem to be mostly [[Lore/The Coriolites/The Coriolites\|The Coriolites]]. [[Characters/Dorian Golgayad\|Dorian]] asks a woman in a silver masks why there are so many [[Lore/The Coriolites/The Coriolites\|The Coriolites]], she says this expedition was entirely funded by five big [[Lore/The Coriolites/The Coriolites\|The Coriolites]], which doesn't usually happen. She introduces herself as [[Ammi Alamasi\|Ammi Alamasi]].
+[[Characters/Dorian Golgayad\|Dorian]] joins the others at the viewing deck, and can finally see his mother in the crowd. A lot of people are gathered there, waving at the greatship, mostly younger ones. The adults seem to keep their composure more, and seem to be mostly [[Lore/The Coriolites/The Coriolites\|The Coriolites]]. [[Characters/Dorian Golgayad\|Dorian]] asks a woman in a silver masks why there are so many [[Lore/The Coriolites/The Coriolites\|The Coriolites]], she says this expedition was entirely funded by five big [[Lore/The Coriolites/The Coriolites\|The Coriolites]], which doesn't usually happen. She introduces herself as [[Ammi Alamasy\|Ammi Alamasy]].
 
 ---
 
