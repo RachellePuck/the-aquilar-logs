@@ -4,7 +4,7 @@
 
 *23-03-2026*
 
-There were a few options to deal with the Nieba, using  [[Characters/Selene Dara\|Selene]]'s ship to ram it, which could cause damage to both ships. Turning off all systems, making the Nieba hopefully lose interes, but this would also turn off all life support systems. The last option would be to overload the system momentarily, trying to explode it, but this could also damage the systems.
+There were a few options to deal with the Nieba, using  [[Characters/Selene Dara\|Selene]]'s ship to ram it, which could cause damage to both ships. Turning off all systems, making the Nieba hopefully lose interest, but this would also turn off all life support systems. The last option would be to overload the system momentarily, trying to explode it, but this could also damage the systems.
 
 They move to the bridge to try and set this last plan in action. Moving to the bridge, they hear people shouting and someone giving orders. Officer Kel comes over and tells them they aren't supposed to be here. They discuss loudly in the hopes that someone with authority over the power systems, which they do. The master engineer comes over and takes them to the captain, and they explain the plan of overloading the ship again. 
 
