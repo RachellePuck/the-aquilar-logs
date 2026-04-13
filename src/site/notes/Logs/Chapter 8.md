@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/logs/chapter-8/"}
 ---
 
-02-03-2026
+*02-03-2026*
 
 The start of the day is marked by a lecture on the Red Garden, one of the first ruins discovered in the New Horizon, consisting of many different ruins. It is also the namesake of the garden type classification of ruins. One of the lecturers is a member of the [[Guilds/Explorers Guild\|Explorers Guild]], Shamran. It is also knows as the Crimson Forest. This garden is actually not just a garden, but it is the garden of the Judge. The explorer also mentions there are guided tours, which [[Characters/Ava Aquilar\|Ava]] has led a few of in the past.
 
